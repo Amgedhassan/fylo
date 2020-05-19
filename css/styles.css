@@ -253,6 +253,9 @@ h6 {
         background-image: url(/images/bg-curvy-mobile.svg);
     }
 
+    .logo-image {
+    width: 30%;
+}
     .intro-image {
         width: 100%
     }
@@ -279,7 +282,7 @@ h6 {
     }
 
     #testimonials {
-        padding: 3% 7% 65% 7%;
+        padding: 3% 7% 100% 7%;
         background-image: url(/images/bg-quotes.png);
         background-repeat: no-repeat;
         background-position: left 0% top 0;
