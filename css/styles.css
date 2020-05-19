@@ -249,15 +249,30 @@ h6 {
 
 @media(max-width: 992px) {
 
+    h1 {
+        font-size: 230%
+    }
+
+    #title p {
+        font-size: 105%;
+        padding: 1.1% 5% 5%;
+        line-height: 1.5;
+    }
+
     #title {
         background-image: url(/images/bg-curvy-mobile.svg);
     }
 
     .logo-image {
-    width: 30%;
-}
+        width: 30%;
+    }
+
     .intro-image {
         width: 100%
+    }
+
+    #features {
+        padding: 10% 7% 10%;
     }
 
     #how-it-works img {
