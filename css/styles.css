@@ -22,7 +22,7 @@ h6 {
 #title {
     background-color: #1c2431;
     padding: 3% 7% 3%;
-    background-image: url(/images/bg-curvy-desktop.svg);
+    background-image: url(../images/bg-curvy-desktop.svg);
     background-position: bottom;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -132,7 +132,7 @@ h6 {
 /*TESTIMONIALS SECTION*/
 #testimonials {
     padding: 3% 7% 20% 7%;
-    background-image: url(/images/bg-quotes.png);
+    background-image: url(../images/bg-quotes.png);
     background-repeat: no-repeat;
     background-position: left 7% top 0;
 }
@@ -146,7 +146,7 @@ h6 {
     margin: 5px;
     padding: 15px;
     border-radius: 15px;
-    ;
+
 }
 
 #testimonials cite {
@@ -260,7 +260,7 @@ h6 {
     }
 
     #title {
-        background-image: url(/images/bg-curvy-mobile.svg);
+        background-image: url(../images/bg-curvy-mobile.svg);
     }
 
     .logo-image {
@@ -298,10 +298,14 @@ h6 {
 
     #testimonials {
         padding: 3% 7% 100% 7%;
-        background-image: url(/images/bg-quotes.png);
+        background-image: url(../images/bg-quotes.png);
         background-repeat: no-repeat;
-        background-position: left 0% top 0;
+        background-position: left 7% top -;
     }
+    
+    .testimonial-box {
+    margin-top: 10%
+}
 
     .footer--list {
         padding-left: 00px
