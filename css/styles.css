@@ -121,6 +121,7 @@ h6 {
 .how-it-works-box a {
     color: #65e2d9;
     border-bottom: 1px solid;
+    text-decoration: none;
     padding-bottom: 1.5px;
     transition: all 0.15s;
 }
